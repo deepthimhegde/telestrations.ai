@@ -1,0 +1,4 @@
+dalle-mini==0.0.3
+git+https://github.com/patil-suraj/vqgan-jax.git
+azure-cognitiveservices-vision-computervision==0.9.0
+pillow>=9.1.1
